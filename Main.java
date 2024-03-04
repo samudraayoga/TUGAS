@@ -15,7 +15,7 @@ public class Main {
         System.out.println(animal.color);
 
 
-        bambang bambang = new prapcoyo("bambang", 3, "Black", "Sunglasses");
+        bambang bambang = new bambang("bambang", 3, "Black", "Sunglasses");
         bambang.eatmethod();
         
     }
