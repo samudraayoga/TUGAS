@@ -1,7 +1,7 @@
 package pertemuan2;
 import livingthings.Animal1;
 import livingthings.Oceanid;
-import livingthings.prapcoyo;
+import livingthings.bambang;
 public class Main {
     public static void main(String[] args) {
         Oceanid oceanid = new Oceanid();
@@ -15,8 +15,8 @@ public class Main {
         System.out.println(animal.color);
 
 
-        prapcoyo prapcoyo = new prapcoyo("Prapcoyo", 3, "Black", "Sunglasses");
-        prapcoyo.eatmethod();
+        bambang bambang = new prapcoyo("bambang", 3, "Black", "Sunglasses");
+        bambang.eatmethod();
         
     }
 }
