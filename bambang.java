@@ -8,7 +8,7 @@ public class bambang extends Animal1 {
     }
 
     public void eatmethod(){
-        System.out.println("Prapcoyo is eating");
+        System.out.println("bambang is eating");
       
     }
 
